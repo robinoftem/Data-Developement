@@ -1,27 +1,21 @@
-# 数据开发 
-[![robin](https://img.shields.io/badge/robin-github-black.svg)](https://github.com/RobinOfSky)
-![license](https://img.shields.io/hexpm/l/plug.svg)
-[![link](https://img.shields.io/badge/Log-CSDN-red.svg)](https://blog.csdn.net/qq_41848006)
-![email](https://img.shields.io/badge/email163-tigerofsky-green.svg)
-![commit](https://img.shields.io/github/last-commit/google/skia.svg)
+<h2 style="font-size: 23px;color: dodgerblue">(三)数据开发</h2>
+<h3><a href="https://github.com/robinoftem/Data-Developement" target="_blank">数据开发主库</a></h3>
+<label><b>负责人：</b></label><br/>
 
-学习链接：[robin在csdn上的数据开发博客](https://blog.csdn.net/qq_41848006/column/info/31434)
+[![robinofsky](https://img.shields.io/badge/robinofsky-github-green.svg)](https://github.com/RobinOfSky)
+<br/>
+<label><b>主要贡献者：</b></label><br/>
+<label><b>目录：</b></label><br/>
 
-### Hadoop
-
-[hdfs的安装部署](https://github.com/RobinOfSky/Big-DATA/blob/master/HDFS%E7%9A%84%E9%9B%86%E7%BE%A4%E9%85%8D%E7%BD%AE.md)
-### HdFS
-
-### Mapreduce
-
-### Yarn
-
-### Hive
-
-### Storm
-
-### Spark
-
-### Flink
-
-
+- Hadoop
+    - HDFS
+    - Mapreduce
+    - Yarn
+- Hive
+- Sqoop
+- Flume
+- Hbase
+- Storm
+- Spark
+- Flink
+- ETL
